@@ -8,7 +8,7 @@ public class kadai1_1 {
 	System.out.println("好きな食べ物: "+"お味噌汁(全般)");
 	
 	System.out.println("理由: "+"揚げなすの入った白味噌のお味噌汁の場合だと、味噌の甘さがナスのジューシーさをより際立たせ、とても旨味があるから。");
-	System.out.pritnln("好きな食べ物はバナナです");
+	System.out.pritnln("OK！今度味噌汁飲み大会しようね！");
 
 	}
 
